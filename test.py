@@ -1,1 +1,1 @@
-print(set("hello"))
+print(int("10"))
